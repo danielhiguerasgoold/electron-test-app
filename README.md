@@ -1,11 +1,18 @@
 # electron-test-app
 A starter boilerplate using GitHub Electron.
-# Usage
-To be able to run this application you will need Node.js and Git. Once installed, run the following commands:
+# Install
+To be able to install this application you will need Node.js and Git. Once installed, run the following commands:
 ```bash
-git clone https://github.com/danielhiguerasgoold/electron-test-app
+git clone https://github.com/danielhiguerasgoold/electron-test-app.git
 
 cd electron-test-app/
 
-npm install && npm start
+npm install
 ```
+# Run
+To start the application, run this command from the application folder:
+```bash
+npm start
+```
+# License
+Mit license
